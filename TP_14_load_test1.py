@@ -32,7 +32,7 @@ import os
 
 ##Téléchargement du fichier dont l'url est indiquée 
 ##dans le dossier "Telechargements"
-src_url = "https://capytale.ac-paris.fr/pj/75/luc.baille/PCSI_TP_14_table_pays__csv_utf-8__semi_colon_.csv"
+src_url = "https://raw.githubusercontent.com/lbaille20/pj_2019-20/main/PCSI_TP_14_table_pays__csv_utf-8__semi_colon_.csv"
 download_txt_csv_straight(src_url)
 
 
