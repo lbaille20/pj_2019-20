@@ -1,0 +1,6 @@
+sommets;adjacents;;;;;
+A;B;10;E;5;;
+B;C;1;E;2;;
+C;D;4;;;;
+D;A;7;C;6;;
+E;B;3;C;9;D;2
