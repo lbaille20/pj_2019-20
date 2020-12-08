@@ -96,7 +96,7 @@ ip.register_magics(TestMagics)
 # In[5]:
 
 
-src_url = 'https://capytale.ac-paris.fr/pj/75/luc.baille/TP_15_BD_films.db'
+src_url = 'https://github.com/lbaille20/pj_2019-20/raw/main/TP_15_BD_films.db'
 
 
 # In[6]:
